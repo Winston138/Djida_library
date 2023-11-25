@@ -25,167 +25,97 @@
         }
     </style>
     <div class="container">
-        <nav class="navigation">
-            <div class="logo">
-                <a href=""><img src="/img/logo.png" alt="#"></a>
-                <a class="header__logo-text" href="">МБУ "Централизованная библиотечная система" <br> МО "Джидинский район"</a>
-            </div>
-            <div class="header__menu-list">
-                <div class="dropdown">
-                    <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="">
-                        Читателям
+        <nav class="navigation navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <div class="logo">
+                    <a href="/" class="d-flex align-items-center">
+                        <img src="/img/logo.png" alt="#" class="d-block me-3">
+                        <div>МБУ&nbsp;"Централизованная&nbsp;библиотечная&nbsp;система" <br> МО "Джидинский район"</div>
                     </a>
-                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="">Как стать читателем</a></li>
-                        <li><a class="dropdown-item" href="">Услуги</a></li>
-                        <li><a class="dropdown-item" href="">Виртуальные книжные выставки</a></li>
-                        <li><a class="dropdown-item" href="">Новинки книг</a></li>
-                        <li><a class="dropdown-item" href="">Анонсы мероприятий</a></li>
-                        <li><a class="dropdown-item" href="">Вопрос-ответ</a></li>
+                </div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="header__menu-list collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Читателям
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="">Как стать читателем</a></li>
+                                <li><a class="dropdown-item" href="">Услуги</a></li>
+                                <li><a class="dropdown-item" href="">Виртуальные книжные выставки</a></li>
+                                <li><a class="dropdown-item" href="">Новинки книг</a></li>
+                                <li><a class="dropdown-item" href="">Анонсы мероприятий</a></li>
+                                <li><a class="dropdown-item" href="">Вопрос-ответ</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Ресурсы
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="">Электронный каталог</a></li>
+                                <li><a class="dropdown-item" href="">Газеты</a></li>
+                                <li><a class="dropdown-item" href="">Базы данных</a></li>
+                                <li><a class="dropdown-item" href="">Электронные библиотеки</a></li>
+                                <li><a class="dropdown-item" href="">Наши разработки</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Краеведение
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="">Литературная карта</a></li>
+                                <li><a class="dropdown-item" href="">Летопись села</a></li>
+                                <li><a class="dropdown-item" href="">Книги памяти</a></li>
+                                <li><a class="dropdown-item" href="">История малой Родины в лицах</a></li>
+                                <li><a class="dropdown-item" href="">Джидинский район от А до Я</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                События
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="">Пушкинская карта</a></li>
+                                <li><a class="dropdown-item" href="">Акции</a></li>
+                                <li><a class="dropdown-item" href="">Мероприятия</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                О библиотеке
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="">Структура библиотеки</a></li>
+                                <li><a class="dropdown-item" href="">Документы</a></li>
+                                <li><a class="dropdown-item" href="">Режим работы</a></li>
+                                <li><a class="dropdown-item" href="">Контакты</a></li>
+                                <li><a class="dropdown-item" href="">Отчет о деятельности</a></li>
+                                <li><a class="dropdown-item" href="">Награды</a></li>
+                                <li><a class="dropdown-item" href="">История</a></li>
+                            </ul>
+                        </li>
                     </ul>
+                    <form class="header__search visible-lg-block d-flex" role="search">
+                        <input type="text" name="q" value="<?=$_POST["q"];?>" placeholder="Поиск">
+                        <button name="SEND" value="Y"><i class="fa fa-search"></i></button>
+                    </form>
                 </div>
-
-                <div class="dropdown">
-                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="">
-                            Ресурсы
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="">Электронный каталог</a></li>
-                            <li><a class="dropdown-item" href="">Газеты</a></li>
-                            <li><a class="dropdown-item" href="">Базы данных</a></li>
-                            <li><a class="dropdown-item" href="">Электронные библиотеки</a></li>
-                            <li><a class="dropdown-item" href="">Наши разработки</a></li>
-                        </ul>
-                </div>
-                <div class="dropdown">
-                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="">
-                            Краеведение
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="">Литературная карта</a></li>
-                            <li><a class="dropdown-item" href="">Летопись села</a></li>
-                            <li><a class="dropdown-item" href="">Книги памяти</a></li>
-                            <li><a class="dropdown-item" href="">История малой Родины в лицах</a></li>
-                            <li><a class="dropdown-item" href="">Джидинский район от А до Я</a></li>
-                        </ul>
-                </div>
-                <div class="dropdown">
-                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="">
-                            События
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="">Пушкинская карта</a></li>
-                            <li><a class="dropdown-item" href="">Акции</a></li>
-                            <li><a class="dropdown-item" href="">Мероприятия</a></li>
-                        </ul>
-                </div>
-                <div class="dropdown">
-                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="">
-                            О библиотеке
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="">Структура библиотеки</a></li>
-                            <li><a class="dropdown-item" href="">Документы</a></li>
-                            <li><a class="dropdown-item" href="">Режим работы</a></li>
-                            <li><a class="dropdown-item" href="">Контакты</a></li>
-                            <li><a class="dropdown-item" href="">Отчет о деятельности</a></li>
-                            <li><a class="dropdown-item" href="">Награды</a></li>
-                            <li><a class="dropdown-item" href="">История</a></li>
-                        </ul>
-                </div>
-            </div>
-            <div class="header__search visible-lg-block">
-                <form action="/search/" method="POST" name="SEARCH_FORM">
-                    <input type="text" name="q" value="<?=$_POST["q"];?>" placeholder="Поиск по сайту">
-                    <button name="SEND" value="Y"><i class="fa fa-search"></i></button>
-                </form>
             </div>
         </nav>
-
-
-
-
-
-
-
-
-<!--<header class="header">-->
-<!--    <style>-->
-<!--        .header {-->
-<!--            background-image: url("/img/bg.png");-->
-<!--            background-repeat: no-repeat;-->
-<!--            background-size: cover;-->
-<!--        }-->
-<!--    </style>-->
-<!--    <div class="container">-->
-<!--        <nav class="navigation">-->
-<!--            <div class="logo">-->
-<!--                <a href=""><img src="/img/logo.png" alt="#"></a>-->
-<!--                <a href="">МБУ "Централизованная библиотечная система" <br> МО "Джидинский район"</a>-->
-<!--            </div>-->
-<!--            <div class="header__menu">-->
-<!--                <ul class="header__menu-list">-->
-<!--                    <li>-->
-<!--                        <a href="">Читателям</a>-->
-<!--                        <ul class="header__submenu">-->
-<!--                            <li><a href="">Как стать читателем</a></li>-->
-<!--                            <li><a href="">Услуги</li>-->
-<!--                            <li><a href="">Виртуальные книжные выставки</a></li>-->
-<!--                            <li><a href="">Новинки книг</a></li>-->
-<!--                            <li><a href="">Анонсы мероприятий</a></li>-->
-<!--                            <li><a href="">Вопрос-ответ</a></li>-->
-<!--                        </ul>-->
-<!--                    </li>-->
-<!--                    <li>-->
-<!--                        <a href="">Ресурсы</a>-->
-<!--                        <ul>-->
-<!--                            <li><a href="">Электронный каталог</a></li>-->
-<!--                            <li><a href="">Газеты</li>-->
-<!--                            <li><a href="">Базы данных</a></li>-->
-<!--                            <li><a href="">Электронные библиотеки</a></li>-->
-<!--                            <li><a href="">Наши разработки</a></li>-->
-<!--                        </ul>-->
-<!--                    </li>-->
-<!--                    <li>-->
-<!--                        <a href="">Краеведение</a>-->
-<!--                        <ul>-->
-<!--                            <li><a href="">Литературная карта</a></li>-->
-<!--                            <li><a href="">Летопись  села</li>-->
-<!--                            <li><a href="">Книги памяти</a></li>-->
-<!--                            <li><a href="">История малой Родины в лицах</a></li>-->
-<!--                            <li><a href="">Джидинский район от А до Я</a></li>-->
-<!--                        </ul>-->
-<!--                    </li>-->
-<!--                    <li>-->
-<!--                        <a href="">События</a>-->
-<!--                        <ul>-->
-<!--                            <li><a href="">Пушкинская карта</a></li>-->
-<!--                            <li><a href="">Акции</li>-->
-<!--                            <li><a href="">Мероприятия</a></li>-->
-<!--                        </ul>-->
-<!--                    </li>-->
-<!--                    <li>-->
-<!--                        <a href="">О библиотеке</a>-->
-<!--                        <ul>-->
-<!--                            <li><a href="">Структура библиотеки</a></li>-->
-<!--                            <li><a href="">Документы</li>-->
-<!--                            <li><a href="">Режим работы</a></li>-->
-<!--                            <li><a href="">Контакты</a></li>-->
-<!--                            <li><a href="">Отчет о деятельности</a></li>-->
-<!--                            <li><a href="">Награды</a></li>-->
-<!--                            <li><a href="">История</a></li>-->
-<!--                        </ul>-->
-<!--                    </li>-->
-<!--                </ul>-->
-<!--            </div>-->
-<!--        </nav>-->
-<!--    </div>-->
-<!--</header>-->
+    </div>
+</header>
 
 
 
 
 <script src="https://kit.fontawesome.com/643eec2f1e.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+
 </body>
 </html>
