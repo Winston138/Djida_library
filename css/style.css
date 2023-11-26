@@ -89,21 +89,35 @@ a {
     display: flex;
     justify-content: space-between;
     max-width: 1300px;
-    gap: 20px;
+    gap: 10px;
     margin: 0px 20px 105px 15px;
     padding-top: 30px;
 }
 
 .footer__nav-title,
 .footer__contact-contact,
-.footer__social {
+.footer__social-text,
+.form-label,
+.footer__sub-title
+{
     font-weight: bold;
+    font-size: clamp(11px, 2vw, 17px);
     margin-bottom: 20px;
 }
 
 .footer__nav-item {
-    margin-top: 15px;
-    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.footer__nav-item,
+.footer__contact-adr,
+.footer__contact-phone,
+.footer__contact-number,
+.footer__contact-mail,
+.footer__contact-text,
+.copyright{
+
+    font-size: clamp(11px, 1vw, 15px);
 }
 
 .footer__info {
@@ -119,7 +133,7 @@ a {
 
 .footer__iconic {
     display: flex;
-    gap: 20px;
+    gap: 15px;
     margin-top: 20px;
 }
 
@@ -136,11 +150,15 @@ a {
 }
 
 
-.footer {
+.footer__bg {
     background: #a0a0a0;
     color: white;
 }
 
-.footer a {
+.footer__bg a {
     color: white;
+}
+
+.swiper-slide {
+    width: 400px;
 }
