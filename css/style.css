@@ -85,6 +85,16 @@ a {
 }
 
 
+.header__sub-nav {
+    background: bisque;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
 .footer__inner {
     display: flex;
     justify-content: space-between;
@@ -157,8 +167,4 @@ a {
 
 .footer__bg a {
     color: white;
-}
-
-.swiper-slide {
-    width: 400px;
 }
