@@ -2,7 +2,7 @@
 <footer class="footer">
     <div class="container">
         <div class="footer__slider">
-            <div class="footer__sub-title mt-5">ПОЛЕЗНЫЕ ССЫЛКИ</div>
+            <div class="footer__sub-title">ПОЛЕЗНЫЕ ССЫЛКИ</div>
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide"><a href=""><img src="/img/1.png" alt=""></a></div>

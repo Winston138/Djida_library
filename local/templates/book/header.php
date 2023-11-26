@@ -119,46 +119,7 @@
             </nav>
         </div>
     </div>
-    <div class="container">
-        <div class="header__sub-nav">
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group19.png" alt="#" class="d-block me-3">
-                    <div>КАК СТАТЬ <br> ЧИТАТЕЛЕМ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group23.png" alt="#" class="d-block me-3">
-                    <div>УСЛУГИ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group19.png" alt="#" class="d-block me-3">
-                    <div>НОВИНКИ КНИГ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group24.png" alt="#" class="d-block me-3">
-                    <div>КАК СТАТЬ <br> ЧИТАТЕЛЕМ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group23.png" alt="#" class="d-block me-3">
-                    <div>АНОНСЫ МЕРОПРИЯТИЙ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group26.png" alt="#" class="d-block me-3">
-                    <div>ВОПРОС-ОТВЕТ</div>
-                </a>
-            </div>
-        </div>
-    </div>
+
 </header>
 
 
