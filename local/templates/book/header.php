@@ -16,8 +16,9 @@
 
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="/css/style.css">
+
     <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/style.css">
 
 
 
@@ -40,7 +41,6 @@
                     <div class="logo">
                         <a href="/" class="d-flex align-items-center">
                             <img src="/img/logo.png" alt="#" class="d-block me-3">
-                            <div>МБУ&nbsp;"Централизованная&nbsp;библиотечная&nbsp;система" <br> МО "Джидинский район"</div>
                         </a>
                     </div>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
