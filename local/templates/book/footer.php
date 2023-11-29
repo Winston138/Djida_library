@@ -19,109 +19,109 @@
             <div class="footer__inner">
                 <ul class="footer__nav">
                     <li class="footer__nav-title">
-                        <a href="">ЧИТАТЕЛЯМ</a>
+                        <a href="#">ЧИТАТЕЛЯМ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">КАК СТАТЬ ЧИТАТЕЛЕМ</a>
+                        <a href="/readers/become_a_reader/index.php" class="footer__nav-link">КАК СТАТЬ ЧИТАТЕЛЕМ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">УСЛУГИ</a>
+                        <a href="/readers/services/index.php" class="footer__nav-link">УСЛУГИ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ВИРТУАЛЬНЫЕ ВЫСТАВКИ</a>
+                        <a href="/readers/virtual_book/index.php" class="footer__nav-link">ВИРТУАЛЬНЫЕ ВЫСТАВКИ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">НОВИНКИ КНИГ</a>
+                        <a href="/readers/new_books/index.php" class="footer__nav-link">НОВИНКИ КНИГ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">АНОНСЫ МЕРОПРИЯТИЙ</a>
+                        <a href="/readers/event/index.php" class="footer__nav-link">АНОНСЫ МЕРОПРИЯТИЙ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ВОПРОС-ОТВЕТ</a>
+                        <a href="/readers/question/index.php" class="footer__nav-link">ВОПРОС-ОТВЕТ</a>
                     </li>
                 </ul>
 
                 <ul class="footer__nav">
                     <li class="footer__nav-title">
-                        <a href="">КРАЕВЕДЕНИЕ</a>
+                        <a href="#">КРАЕВЕДЕНИЕ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ЛИТЕРАТУРНАЯ КАРТА</a>
+                        <a href="/local_history/literary_map/index.php" class="footer__nav-link">ЛИТЕРАТУРНАЯ КАРТА</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ЛЕТОПИСЬ СЕЛА</a>
+                        <a href="/local_history/chronicle/index.php" class="footer__nav-link">ЛЕТОПИСЬ СЕЛА</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">КНИГИ ПАМЯТИ</a>
+                        <a href="/local_history/books_of_memory/index.php" class="footer__nav-link">КНИГИ ПАМЯТИ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ИСТОРИЯ МАЛОЙ РОДИНЫ В ЛИЦАХ</a>
+                        <a href="/local_history/history_of_Motherland/index.php" class="footer__nav-link">ИСТОРИЯ МАЛОЙ РОДИНЫ В ЛИЦАХ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ДЖИДИНСКИЙ РАЙОН ОТ А ДО Я</a>
+                        <a href="/local_history/dzhidinsky_district/index.php" class="footer__nav-link">ДЖИДИНСКИЙ РАЙОН ОТ А ДО Я</a>
                     </li>
                 </ul>
 
                 <ul class="footer__nav">
                     <li class="footer__nav-title">
-                        <a href="">СОБЫТИЯ</a>
+                        <a href="#">СОБЫТИЯ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ПУШКИНСКАЯ КАРТА</a>
+                        <a href="/events/pushkin_map/index.php" class="footer__nav-link">ПУШКИНСКАЯ КАРТА</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">АКЦИИ</a>
+                        <a href="/events/stock/index.php" class="footer__nav-link">АКЦИИ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">МЕРОПРИЯТИЯ</a>
+                        <a href="/events/events/index.php" class="footer__nav-link">МЕРОПРИЯТИЯ</a>
                     </li>
                 </ul>
 
                 <ul class="footer__nav">
                     <li class="footer__nav-title">
-                        <a href="">РЕСУРСЫ</a>
+                        <a href="#">РЕСУРСЫ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ЭЛЕКТРОННЫЙ КАТАЛОГ</a>
+                        <a href="/resources/digital_catalogue/index.php" class="footer__nav-link">ЭЛЕКТРОННЫЙ КАТАЛОГ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ГАЗЕТЫ</a>
+                        <a href="/resources/newspapers/index.php" class="footer__nav-link">ГАЗЕТЫ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">БАЗА ДАННЫХ</a>
+                        <a href="/resources/database/index.php" class="footer__nav-link">БАЗА ДАННЫХ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ЭЛЕКТРОННЫЕ БИБЛИОТЕКИ</a>
+                        <a href="/resources/electronic_libraries/index.php" class="footer__nav-link">ЭЛЕКТРОННЫЕ БИБЛИОТЕКИ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">НАШИ РАЗРАБОТКИ</a>
+                        <a href="/resources/developments/index.php" class="footer__nav-link">НАШИ РАЗРАБОТКИ</a>
                     </li>
                 </ul>
 
                 <ul class="footer__nav">
                     <li class="footer__nav-title">
-                        <a href="">О&nbspБИБЛИОТЕКЕ</a>
+                        <a href="#">О&nbspБИБЛИОТЕКЕ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">СТРУКТУРА БИБЛИОТЕКИ</a>
+                        <a href="/about/structure/index.php" class="footer__nav-link">СТРУКТУРА БИБЛИОТЕКИ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ДОКУМЕНТЫ</a>
+                        <a href="/about/docs/index.php" class="footer__nav-link">ДОКУМЕНТЫ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">РЕЖИМ РАБОТЫ</a>
+                        <a href="/about/operating_mode/index.php" class="footer__nav-link">РЕЖИМ РАБОТЫ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">КОНТАКТЫ</a>
+                        <a href="/about/contacts/index.php" class="footer__nav-link">КОНТАКТЫ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ОТЧЕТ О ДЕЯТЕЛЬНОСТИ</a>
+                        <a href="/about/activity_report/index.php" class="footer__nav-link">ОТЧЕТ О ДЕЯТЕЛЬНОСТИ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">НАГРАДЫ</a>
+                        <a href="/about/awards/index.php" class="footer__nav-link">НАГРАДЫ</a>
                     </li>
                     <li class="footer__nav-item">
-                        <a href="" class="footer__nav-link">ИСТОРИЯ</a>
+                        <a href="/about/history/index.php" class="footer__nav-link">ИСТОРИЯ</a>
                     </li>
                 </ul>
             </div>
@@ -188,6 +188,8 @@
 <script src="https://kit.fontawesome.com/643eec2f1e.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
+
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script src="/js/main.js"></script>
 

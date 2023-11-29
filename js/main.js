@@ -13,3 +13,8 @@ const swiper = new Swiper('.swiper', {
     spaceBetween: 100,
 
 });
+
+
+Fancybox.bind("[data-fancybox]", {
+    // Your custom options
+});

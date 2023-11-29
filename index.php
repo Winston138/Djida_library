@@ -30,75 +30,36 @@
 
             <div class="main__chapter">
                 <div class="main__chapter-item">
-                    <a href="/" class="main__chapter-link">
+                    <a href="/local_history/literary_map/index.php" class="main__chapter-link">
                         <div>ЛИТЕРАТУРНАЯ КАРТА</div>
                     </a>
                 </div>
                 <div class="main__chapter-item">
-                    <a href="/" class="main__chapter-link">
+                    <a href="/local_history/chronicle/index.php" class="main__chapter-link">
                         <div>ЛЕТОПИСЬ СЕЛА</div>
                     </a>
                 </div>
                 <div class="main__chapter-item">
-                    <a href="/" class="main__chapter-link">
+                    <a href="/local_history/books_of_memory/index.php" class="main__chapter-link">
                         <div>КНИГА ПАМЯТИ</div>
                     </a>
                 </div>
                 <div class="main__chapter-item">
-                    <a href="/" class="main__chapter-link">
+                    <a href="/local_history/history_of_Motherland/index.php" class="main__chapter-link">
                         <div>ИСТОРИЯ В ЛИЦАХ</div>
                     </a>
                 </div>
                 <div class="main__chapter-item">
-                    <a href="/" class="main__chapter-link">
+                    <a href="/local_history/dzhidinsky_district/index.php" class="main__chapter-link">
                         <div>ДЖИДИНСКИЙ РАЙОН</div>
                     </a>
                 </div>
             </div>
         </div>
 
-        <div class="header__sub-nav">
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group19.png" alt="#" class="d-block me-2">
-                    <div>КАК СТАТЬ <br> ЧИТАТЕЛЕМ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group23.png" alt="#" class="d-block me-2">
-                    <div>УСЛУГИ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group19.png" alt="#" class="d-block me-2">
-                    <div>НОВИНКИ КНИГ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group24.png" alt="#" class="d-block me-2">
-                    <div>КАК СТАТЬ <br> ЧИТАТЕЛЕМ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group23.png" alt="#" class="d-block me-2">
-                    <div>АНОНСЫ МЕРОПРИЯТИЙ</div>
-                </a>
-            </div>
-            <div class="header__sub__nav-item">
-                <a href="/" class="header__sub__nav-link d-flex align-items-center">
-                    <img src="/img/Group26.png" alt="#" class="d-block me-2">
-                    <div>ВОПРОС-ОТВЕТ</div>
-                </a>
-            </div>
-        </div>
-
         <div class="main__news-section">
             <div class="d-flex align-item-center mt-5">
-                <h2>НОВОСТИ</h2>
+                <h2 class="m-1-1-2-2">НОВОСТИ</h2>
                 <a href="">смотреть всё</a>
             </div>
             <div class="d-flex gap-3">
@@ -108,13 +69,13 @@
                             <img src="/img/n.png" alt="">
                         </a>
                     </div>
-                    <div class="main__news__block-title">
-                        <p>ТАБАН БЭЛИГТЭН</p>
+                    <div class="main__news__block-title mt-2">
+                        <h2>ТАБАН БЭЛИГТЭН</h2>
                     </div>
-                    <div class="main__news__block-description">
+                    <div class="main__news__block-description m-3">
                         <p>Пока люд иговорят на родном языке <br> сохраняются народные ценности</p>
                     </div>
-                    <div class="main__news__block-date">
+                    <div class="main__news__block-date m-3">
                         <p>26 октября 2023</p>
                     </div>
                 </div>
@@ -124,13 +85,13 @@
                             <img src="/img/n.png" alt="">
                         </a>
                     </div>
-                    <div class="main__news__block-title">
-                        <p>ТАБАН БЭЛИГТЭН</p>
+                    <div class="main__news__block-title mt-2">
+                        <h2>ТАБАН БЭЛИГТЭН</h2>
                     </div>
-                    <div class="main__news__block-description">
+                    <div class="main__news__block-description m-3">
                         <p>Пока люд иговорят на родном языке <br> сохраняются народные ценности</p>
                     </div>
-                    <div class="main__news__block-date">
+                    <div class="main__news__block-date m-3">
                         <p>26 октября 2023</p>
                     </div>
                 </div>
@@ -140,13 +101,13 @@
                             <img src="/img/n.png" alt="">
                         </a>
                     </div>
-                    <div class="main__news__block-title">
-                        <p>ТАБАН БЭЛИГТЭН</p>
+                    <div class="main__news__block-title mt-2">
+                        <h2>ТАБАН БЭЛИГТЭН</h2>
                     </div>
-                    <div class="main__news__block-description">
+                    <div class="main__news__block-description m-3">
                         <p>Пока люд иговорят на родном языке <br> сохраняются народные ценности</p>
                     </div>
-                    <div class="main__news__block-date">
+                    <div class="main__news__block-date m-3">
                         <p>26 октября 2023</p>
                     </div>
                 </div>
@@ -166,13 +127,13 @@
                             <img src="/img/n.png" alt="">
                         </a>
                     </div>
-                    <div class="main__news__block-title">
-                        <p>ТАБАН БЭЛИГТЭН</p>
+                    <div class="main__news__block-title mt-2">
+                        <h2>ТАБАН БЭЛИГТЭН</h2>
                     </div>
-                    <div class="main__news__block-description">
+                    <div class="main__news__block-description m-3">
                         <p>Пока люд иговорят на родном языке <br> сохраняются народные ценности</p>
                     </div>
-                    <div class="main__news__block-date">
+                    <div class="main__news__block-date m-3">
                         <p>26 октября 2023</p>
                     </div>
                 </div>
@@ -182,13 +143,13 @@
                             <img src="/img/n.png" alt="">
                         </a>
                     </div>
-                    <div class="main__news__block-title">
-                        <p>ТАБАН БЭЛИГТЭН</p>
+                    <div class="main__news__block-title mt-2">
+                        <h2>ТАБАН БЭЛИГТЭН</h2>
                     </div>
-                    <div class="main__news__block-description">
+                    <div class="main__news__block-description m-3">
                         <p>Пока люд иговорят на родном языке <br> сохраняются народные ценности</p>
                     </div>
-                    <div class="main__news__block-date">
+                    <div class="main__news__block-date m-3">
                         <p>26 октября 2023</p>
                     </div>
                 </div>
@@ -198,13 +159,13 @@
                             <img src="/img/n.png" alt="">
                         </a>
                     </div>
-                    <div class="main__news__block-title">
-                        <p>ТАБАН БЭЛИГТЭН</p>
+                    <div class="main__news__block-title mt-2">
+                        <h2>ТАБАН БЭЛИГТЭН</h2>
                     </div>
-                    <div class="main__news__block-description">
+                    <div class="main__news__block-description m-3">
                         <p>Пока люд иговорят на родном языке <br> сохраняются народные ценности</p>
                     </div>
-                    <div class="main__news__block-date">
+                    <div class="main__news__block-date m-3">
                         <p>26 октября 2023</p>
                     </div>
                 </div>
