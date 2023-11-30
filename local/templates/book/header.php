@@ -123,27 +123,27 @@
         </div>
         <div class="container header__sub-nav mb-4 rounded">
 	        <div class="row">
-		        <a href="/readers/become_a_reader/" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+		        <a href="/readers/become_a_reader/" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-book fa-lg me-3"></i>
 			        <div>КАК СТАТЬ ЧИТАТЕЛЕМ</div>
 		        </a>
-		        <a href="/readers/services" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+		        <a href="/readers/services" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-clipboard-list fa-lg me-3"></i>
 			        <div>УСЛУГИ</div>
 		        </a>
-		        <a href="/readers/new_books" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+		        <a href="/readers/new_books" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-book-bookmark fa-lg me-3"></i>
 			        <div>НОВИНКИ КНИГ</div>
 		        </a>
-		        <a href="/readers/virtual_book" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+		        <a href="/readers/virtual_book" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-book-atlas fa-lg me-3"></i>
 			        <div>ВИРТУАЛЬНЫЕ КНИЖНЫЕ ВЫСТАВКИ</div>
 		        </a>
-		        <a href="/readers/event" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+		        <a href="/readers/event" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-bullhorn fa-lg me-3"></i>
 			        <div>АНОНСЫ МЕРОПРИЯТИЙ</div>
 		        </a>
-		        <a href="/readers/question" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+		        <a href="/readers/question" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-comments fa-lg me-3"></i>
 			        <div>ВОПРОС-ОТВЕТ</div>
 		        </a>
