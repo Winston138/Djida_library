@@ -10,7 +10,7 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&family=Inter:wght@500;700&family=Open+Sans:wght@300;400&family=Roboto:wght@300&family=Ruda:wght@500&family=Tilt+Prism&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@400;600;700&family=Ruda:wght@400;600;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
 
@@ -28,7 +28,7 @@
 </head>
 <body>
 
-    <header class="header">
+    <header class="header mb-4">
         <div class="header__bg">
             <style>
                 .header__bg {
@@ -122,40 +122,40 @@
             </div>
         </div>
         <div class="container">
-            <div class="header__sub-nav">
-                <div class="header__sub__nav-item">
-                    <a href="/readers/become_a_reader/index.php" class="header__sub__nav-link d-flex align-items-center">
-                        <img src="/img/Group19.png" alt="#" class="d-block me-2">
-                        <div>КАК СТАТЬ <br> ЧИТАТЕЛЕМ</div>
+            <div class="header__sub-nav row mb-4">
+                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
+                    <a href="/readers/become_a_reader/" class="header__sub__nav-link d-flex align-items-center">
+                        <i class="fa fa-book fa-2x me-2"></i>
+                        <div>КАК СТАТЬ ЧИТАТЕЛЕМ</div>
                     </a>
                 </div>
-                <div class="header__sub__nav-item">
-                    <a href="/readers/services/index.php" class="header__sub__nav-link d-flex align-items-center">
-                        <img src="/img/Group23.png" alt="#" class="d-block me-2">
+                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
+                    <a href="/readers/services" class="header__sub__nav-link d-flex align-items-center">
+	                    <i class="fa fa-clipboard-list fa-2x me-2"></i>
                         <div>УСЛУГИ</div>
                     </a>
                 </div>
-                <div class="header__sub__nav-item">
-                    <a href="/readers/new_books/index.php" class="header__sub__nav-link d-flex align-items-center">
-                        <img src="/img/Group19.png" alt="#" class="d-block me-2">
+                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
+                    <a href="/readers/new_books" class="header__sub__nav-link d-flex align-items-center">
+	                    <i class="fa fa-book-bookmark fa-2x me-2"></i>
                         <div>НОВИНКИ КНИГ</div>
                     </a>
                 </div>
-                <div class="header__sub__nav-item">
-                    <a href="/readers/virtual_book/index.php" class="header__sub__nav-link d-flex align-items-center">
-                        <img src="/img/Group24.png" alt="#" class="d-block me-2">
-                        <div>ВИРТУАЛЬНЫЕ <br> КНИЖНЫЕ ВЫСТАВКИ</div>
+                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
+                    <a href="/readers/virtual_book" class="header__sub__nav-link d-flex align-items-center">
+	                    <i class="fa fa-book-atlas fa-2x me-2"></i>
+                        <div>ВИРТУАЛЬНЫЕ КНИЖНЫЕ ВЫСТАВКИ</div>
                     </a>
                 </div>
-                <div class="header__sub__nav-item">
-                    <a href="/readers/event/index.php" class="header__sub__nav-link d-flex align-items-center">
-                        <img src="/img/Group23.png" alt="#" class="d-block me-2">
+                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
+                    <a href="/readers/event" class="header__sub__nav-link d-flex align-items-center">
+	                    <i class="fa fa-bullhorn fa-2x me-2"></i>
                         <div>АНОНСЫ МЕРОПРИЯТИЙ</div>
                     </a>
                 </div>
-                <div class="header__sub__nav-item">
-                    <a href="/readers/question/index.php" class="header__sub__nav-link d-flex align-items-center">
-                        <img src="/img/Group26.png" alt="#" class="d-block me-2">
+                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
+                    <a href="/readers/question" class="header__sub__nav-link d-flex align-items-center">
+	                    <i class="fa fa-comments fa-2x me-2"></i>
                         <div>ВОПРОС-ОТВЕТ</div>
                     </a>
                 </div>
