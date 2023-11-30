@@ -154,7 +154,7 @@
                         <div class="footer__contact-number"><a href="tel:83013411693">8(30134)41-7-93</a></div>
                     <br>
                         <div class="footer__contact-mail">EMAIL:</div>
-                        <div class="footer__contact-text"><a href="cbdzd@bk.ru">cbdzd@bk.ru</a></div>
+                        <div class="footer__contact-text"><a href="cbdzd@bk.ru">toEmail:cbdzd@bk.ru</a></div>
                     </div>
             </div>
         </div>
@@ -164,7 +164,7 @@
     <div class="container">
         <div class="copyright">
             <div>©МБУ "Централизованная библиотечная система" МО "Джидинский район"</div>
-            <div><a href="info@baikalib.ru">Email:info@baikalib.ru</a></div>
+            <div><a href="info@baikalib.ru">toEmail:info@baikalib.ru</a></div>
         </div>
     </div>
 </div>

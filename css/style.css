@@ -287,3 +287,8 @@ h2 {
     font-size: 20px;
     line-height: 1.5;
 }
+
+.docs__section {
+    font-family: 'Ruda', sans-serif;
+    font-size: 18px;
+}
