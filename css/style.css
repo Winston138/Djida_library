@@ -129,7 +129,7 @@ h2 {
 .copyright,
 .header__sub__nav-item,
 .main__link,
-.main__chapter-item {
+.main__chapter-link {
     font-size: clamp(11px, 1vw, 15px);
 }
 
@@ -185,6 +185,9 @@ h2 {
     background: #fef2db;
     margin-top: 60px;
     border-radius: 15px;
+    background-image: url("/img/d1.png");
+    background-repeat: no-repeat;
+    background-position: top -120px right -120px;
 }
 
 .main__text {
@@ -201,7 +204,7 @@ h2 {
     max-width: 220px;
     width: 100%;
     height: 70px;
-    background: sandybrown;
+    background: #ffd78a;
     position: absolute;
     left: -30px;
     top: -25px;
@@ -214,10 +217,9 @@ h2 {
 }
 
 .main__chapter {
-    background: sandybrown;
+    background: #ffd78a;
     display: flex;
-    justify-content: space-between;
-    padding: 15px 50px;
+    justify-content: space-around;
     border-radius: 10px;
     position: absolute;
     bottom: 25px;
