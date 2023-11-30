@@ -184,7 +184,6 @@ h2 {
     height: 400px;
     background: #fef2db;
     margin-top: 60px;
-    border-radius: 15px;
     background-image: url("/img/d1.png");
     background-repeat: no-repeat;
     background-position: top -120px right -120px;
@@ -286,8 +285,12 @@ h2 {
 
 .header__sub__nav-item{
     font-weight: 600;
+    justify-content: center;
 }
 
 .header__sub__nav-item i{
     color: #d1aa5f;
+}
+.header__sub__nav-item>div{
+    width: min-content;
 }

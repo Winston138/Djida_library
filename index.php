@@ -3,7 +3,7 @@
 
 <div class="container">
     <div class="main">
-        <div class="main__bg">
+        <div class="main__bg rounded-3">
             <div class="main__text">
                 По своему типу краеведение ближе к истории географии.
                 Но в отличие от последней, большре значение придает

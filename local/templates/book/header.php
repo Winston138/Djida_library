@@ -121,7 +121,7 @@
                 </nav>
             </div>
         </div>
-        <div class="container header__sub-nav mb-4 rounded">
+        <div class="container header__sub-nav mb-4 rounded-3">
 	        <div class="row">
 		        <a href="/readers/become_a_reader/" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-book fa-lg me-3"></i>
@@ -137,7 +137,7 @@
 		        </a>
 		        <a href="/readers/virtual_book" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-book-atlas fa-lg me-3"></i>
-			        <div>ВИРТУАЛЬНЫЕ КНИЖНЫЕ ВЫСТАВКИ</div>
+			        <div>КНИЖНЫЕ ВЫСТАВКИ</div>
 		        </a>
 		        <a href="/readers/event" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
 			        <i class="fa fa-bullhorn fa-lg me-3"></i>
