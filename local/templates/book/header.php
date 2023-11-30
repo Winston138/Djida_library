@@ -28,8 +28,8 @@
 </head>
 <body>
 
-    <header class="header mb-4">
-        <div class="header__bg">
+    <header class="header">
+        <div class="header__bg mb-4">
             <style>
                 .header__bg {
                     background-image: url("/img/bg.png");
@@ -121,45 +121,33 @@
                 </nav>
             </div>
         </div>
-        <div class="container">
-            <div class="header__sub-nav row mb-4">
-                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
-                    <a href="/readers/become_a_reader/" class="header__sub__nav-link d-flex align-items-center">
-                        <i class="fa fa-book fa-2x me-2"></i>
-                        <div>КАК СТАТЬ ЧИТАТЕЛЕМ</div>
-                    </a>
-                </div>
-                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
-                    <a href="/readers/services" class="header__sub__nav-link d-flex align-items-center">
-	                    <i class="fa fa-clipboard-list fa-2x me-2"></i>
-                        <div>УСЛУГИ</div>
-                    </a>
-                </div>
-                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
-                    <a href="/readers/new_books" class="header__sub__nav-link d-flex align-items-center">
-	                    <i class="fa fa-book-bookmark fa-2x me-2"></i>
-                        <div>НОВИНКИ КНИГ</div>
-                    </a>
-                </div>
-                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
-                    <a href="/readers/virtual_book" class="header__sub__nav-link d-flex align-items-center">
-	                    <i class="fa fa-book-atlas fa-2x me-2"></i>
-                        <div>ВИРТУАЛЬНЫЕ КНИЖНЫЕ ВЫСТАВКИ</div>
-                    </a>
-                </div>
-                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
-                    <a href="/readers/event" class="header__sub__nav-link d-flex align-items-center">
-	                    <i class="fa fa-bullhorn fa-2x me-2"></i>
-                        <div>АНОНСЫ МЕРОПРИЯТИЙ</div>
-                    </a>
-                </div>
-                <div class="header__sub__nav-item col-6 col-md-4 col-lg">
-                    <a href="/readers/question" class="header__sub__nav-link d-flex align-items-center">
-	                    <i class="fa fa-comments fa-2x me-2"></i>
-                        <div>ВОПРОС-ОТВЕТ</div>
-                    </a>
-                </div>
-            </div>
+        <div class="container header__sub-nav mb-4 rounded">
+	        <div class="row">
+		        <a href="/readers/become_a_reader/" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+			        <i class="fa fa-book fa-lg me-3"></i>
+			        <div>КАК СТАТЬ ЧИТАТЕЛЕМ</div>
+		        </a>
+		        <a href="/readers/services" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+			        <i class="fa fa-clipboard-list fa-lg me-3"></i>
+			        <div>УСЛУГИ</div>
+		        </a>
+		        <a href="/readers/new_books" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+			        <i class="fa fa-book-bookmark fa-lg me-3"></i>
+			        <div>НОВИНКИ КНИГ</div>
+		        </a>
+		        <a href="/readers/virtual_book" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+			        <i class="fa fa-book-atlas fa-lg me-3"></i>
+			        <div>ВИРТУАЛЬНЫЕ КНИЖНЫЕ ВЫСТАВКИ</div>
+		        </a>
+		        <a href="/readers/event" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+			        <i class="fa fa-bullhorn fa-lg me-3"></i>
+			        <div>АНОНСЫ МЕРОПРИЯТИЙ</div>
+		        </a>
+		        <a href="/readers/question" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center">
+			        <i class="fa fa-comments fa-lg me-3"></i>
+			        <div>ВОПРОС-ОТВЕТ</div>
+		        </a>
+	        </div>
         </div>
     </header>
 
