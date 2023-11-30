@@ -113,7 +113,7 @@
                 </div>
             </div>
         </div>
-
+qwe
 
         <div class="main__news-section">
             <div class="d-flex align-item-center mt-5">
