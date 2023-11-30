@@ -14,8 +14,8 @@
             </nav>
 
             <div class="mt-3 mb-3">
-                <p class="mb-1">БИБЛИОНОЧЬ'23</p>
-                <p>13 сентября 2023г</p>
+                <h2 class="mb-1">БИБЛИОНОЧЬ'23</h2>
+                <h2>13 сентября 2023г</h2>
             </div>
             <div class="d-flex justify-content-center mb-3">
                 <a href="/img/n2.png" data-fancybox="gallery" data-caption="Caption #1"><img src="/img/n2.png" /></a>
