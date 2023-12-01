@@ -114,6 +114,13 @@ a {
 /*    margin: 20px 20px 50px 20px;*/
 /*}*/
 
+h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 15px;
+}
+
+
 h2 {
     font-weight: bold;
     font-size: clamp(11px, 2vw, 17px);
@@ -294,3 +301,30 @@ h2 {
 .header__sub__nav-item>div{
     width: min-content;
 }
+
+/*.docs__section h1 {*/
+/*    font-size: 30px;*/
+/*    font-weight: bold;*/
+/*    margin: 15px;*/
+/*}*/
+
+.docs__section li {
+    line-height: 1.5;
+}
+
+.docs__section i {
+    color: #1976D2;
+}
+
+.contact__section p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+
+.contact__section-item div {
+    font-size: 1.1rem;
+}
+
+
