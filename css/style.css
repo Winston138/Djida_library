@@ -1,6 +1,6 @@
 body {
     font-family: 'Ruda', sans-serif;
-    padding-top: 100px;
+    padding-top: 120px;
 }
 
 .footer {
@@ -286,7 +286,7 @@ h2 {
     width: min-content;
 }
 
-.header__bg {
+.navbar {
     background-image: url("/img/bg.png");
     background-repeat: no-repeat;
     background-size: cover;
