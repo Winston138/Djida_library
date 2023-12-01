@@ -46,12 +46,12 @@
                                     Читателям
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/readers/become_a_reader/index.php">Как стать читателем</a></li>
-                                    <li><a class="dropdown-item" href="/readers/services/index.php">Услуги</a></li>
-                                    <li><a class="dropdown-item" href="/readers/virtual_book/index.php">Виртуальные книжные выставки</a></li>
-                                    <li><a class="dropdown-item" href="/readers/new_books/index.php">Новинки книг</a></li>
-                                    <li><a class="dropdown-item" href="/readers/event/index.php">Анонсы мероприятий</a></li>
-                                    <li><a class="dropdown-item" href="/readers/question/index.php">Вопрос-ответ</a></li>
+                                    <li><a class="dropdown-item" href="/readers/become_a_reader/">Как стать читателем</a></li>
+                                    <li><a class="dropdown-item" href="/readers/services/">Услуги</a></li>
+                                    <li><a class="dropdown-item" href="/readers/virtual_book/">Виртуальные книжные выставки</a></li>
+                                    <li><a class="dropdown-item" href="/readers/new_books/">Новинки книг</a></li>
+                                    <li><a class="dropdown-item" href="/readers/event/">Анонсы мероприятий</a></li>
+                                    <li><a class="dropdown-item" href="/readers/question/">Вопрос-ответ</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
@@ -59,11 +59,11 @@
                                     Ресурсы
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/resources/digital_catalogue/index.php">Электронный каталог</a></li>
-                                    <li><a class="dropdown-item" href="/resources/newspapers/index.php">Газеты</a></li>
-                                    <li><a class="dropdown-item" href="/resources/database/index.php">Базы данных</a></li>
-                                    <li><a class="dropdown-item" href="/resources/electronic_libraries/index.php">Электронные библиотеки</a></li>
-                                    <li><a class="dropdown-item" href="/resources/developments/index.php">Наши разработки</a></li>
+                                    <li><a class="dropdown-item" href="/resources/digital_catalogue/">Электронный каталог</a></li>
+                                    <li><a class="dropdown-item" href="/resources/newspapers/">Газеты</a></li>
+                                    <li><a class="dropdown-item" href="/resources/database/">Базы данных</a></li>
+                                    <li><a class="dropdown-item" href="/resources/electronic_libraries/">Электронные библиотеки</a></li>
+                                    <li><a class="dropdown-item" href="/resources/developments/">Наши разработки</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
@@ -71,11 +71,11 @@
                                     Краеведение
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/local_history/literary_map/index.php">Литературная карта</a></li>
-                                    <li><a class="dropdown-item" href="/local_history/chronicle/index.php">Летопись села</a></li>
-                                    <li><a class="dropdown-item" href="/local_history/books_of_memory/index.php">Книги памяти</a></li>
-                                    <li><a class="dropdown-item" href="/local_history/history_of_Motherland/index.php">История малой Родины в лицах</a></li>
-                                    <li><a class="dropdown-item" href="/local_history/dzhidinsky_district/index.php">Джидинский район от А до Я</a></li>
+                                    <li><a class="dropdown-item" href="/local_history/literary_map/">Литературная карта</a></li>
+                                    <li><a class="dropdown-item" href="/local_history/chronicle/">Летопись села</a></li>
+                                    <li><a class="dropdown-item" href="/local_history/books_of_memory/">Книги памяти</a></li>
+                                    <li><a class="dropdown-item" href="/local_history/history_of_Motherland/">История малой Родины в лицах</a></li>
+                                    <li><a class="dropdown-item" href="/local_history/dzhidinsky_district/">Джидинский район от А до Я</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
@@ -83,9 +83,9 @@
                                     События
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/events/pushkin_map/index.php">Пушкинская карта</a></li>
-                                    <li><a class="dropdown-item" href="/events/stock/index.php">Акции</a></li>
-                                    <li><a class="dropdown-item" href="/events/events/index.php">Мероприятия</a></li>
+                                    <li><a class="dropdown-item" href="/events/pushkin_map/">Пушкинская карта</a></li>
+                                    <li><a class="dropdown-item" href="/events/stock/">Акции</a></li>
+                                    <li><a class="dropdown-item" href="/events/events/">Мероприятия</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
@@ -93,13 +93,13 @@
                                     О&nbspбиблиотеке
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/about/structure/index.php">Структура библиотеки</a></li>
-                                    <li><a class="dropdown-item" href="/about/docs/index.php">Документы</a></li>
-                                    <li><a class="dropdown-item" href="/about/operating_mode/index.php">Режим работы</a></li>
-                                    <li><a class="dropdown-item" href="/about/contacts/index.php">Контакты</a></li>
-                                    <li><a class="dropdown-item" href="/about/activity_report/index.php">Отчет о деятельности</a></li>
-                                    <li><a class="dropdown-item" href="/about/awards/index.php">Награды</a></li>
-                                    <li><a class="dropdown-item" href="/about/history/index.php">История</a></li>
+                                    <li><a class="dropdown-item" href="/about/structure/">Структура библиотеки</a></li>
+                                    <li><a class="dropdown-item" href="/about/docs/">Документы</a></li>
+                                    <li><a class="dropdown-item" href="/about/operating_mode/">Режим работы</a></li>
+                                    <li><a class="dropdown-item" href="/about/contacts/">Контакты</a></li>
+                                    <li><a class="dropdown-item" href="/about/activity_report/">Отчет о деятельности</a></li>
+                                    <li><a class="dropdown-item" href="/about/awards/">Награды</a></li>
+                                    <li><a class="dropdown-item" href="/about/history/">История</a></li>
                                 </ul>
                             </li>
                         </ul>
