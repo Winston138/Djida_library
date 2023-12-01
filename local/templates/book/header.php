@@ -22,15 +22,12 @@
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/style.css">
 
-
-
 	<title>Document</title>
 </head>
 <body>
     <header class="header">
         <div class="header__bg mb-4">
-            <div class="container">
-                <nav class="navigation navbar navbar-expand-lg fixed-top">
+            <nav class="navbar navbar-expand-lg fixed-top container">
                     <div class="logo py-3">
                         <a href="/" class="d-flex align-items-center">
                             <img src="/img/logo.png" alt="#" class="d-block me-3">
@@ -109,7 +106,6 @@
                         </form>
                     </div>
                 </nav>
-            </div>
         </div>
         <div class="container header__sub-nav mb-4 rounded-3">
 	        <div class="row">
