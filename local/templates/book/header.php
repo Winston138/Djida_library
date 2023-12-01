@@ -26,8 +26,7 @@
 </head>
 <body>
     <header class="header">
-        <div class="header__bg mb-4">
-            <nav class="navbar navbar-expand-lg fixed-top container">
+        <nav class="navbar navbar-expand-lg fixed-top header__bg mb-4">
                     <div class="logo py-3">
                         <a href="/" class="d-flex align-items-center">
                             <img src="/img/logo.png" alt="#" class="d-block me-3">
@@ -106,7 +105,6 @@
                         </form>
                     </div>
                 </nav>
-        </div>
         <div class="container header__sub-nav mb-4 rounded-3">
 	        <div class="row">
 		        <a href="/readers/become_a_reader/" class="header__sub__nav-item col-6 col-md-4 col-lg d-flex align-items-center p-4">
